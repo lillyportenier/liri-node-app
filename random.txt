@@ -27,3 +27,520 @@ Language: English, Mohawk
 Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 --------------------------------------------------------
+Song: Fergalicious
+Listen Here: null
+Album: The Dutchess
+--------------------------------------------------------
+Song: Hello
+Listen Here: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
+Album: 25
+--------------------------------------------------------
+Title: Titanic
+Year: 1997
+Rating: PG-13
+Rotten Tomato: 89%
+Country: USA
+Language: English, Swedish, Italian
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+--------------------------------------------------------
+Venue: Bell Centre
+Location: Montreal
+Date: November 18, 2019
+
+--------------------------------------------------------
+Venue: Bell Centre
+Location: Montreal
+Date: November 22, 2019
+
+--------------------------------------------------------
+Venue: Bell Centre
+Location: Montreal
+Date: November 21, 2019
+
+--------------------------------------------------------
+Venue: Bell Centre
+Location: Montreal
+Date: November 19, 2019
+
+--------------------------------------------------------
+Venue: United Center
+Location: Chicago
+Date: December 1, 2019
+
+--------------------------------------------------------
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis
+Date: December 3, 2019
+
+--------------------------------------------------------
+Venue: KeyBank Center
+Location: Buffalo
+Date: December 5, 2019
+
+--------------------------------------------------------
+Venue: Times Union Center
+Location: Albany
+Date: December 7, 2019
+
+--------------------------------------------------------
+Venue: Scotiabank Arena
+Location: Toronto
+Date: December 9, 2019
+
+--------------------------------------------------------
+Venue: Scotiabank Arena
+Location: Toronto
+Date: December 10, 2019
+
+--------------------------------------------------------
+Venue: TD Garden
+Location: Boston
+Date: December 13, 2019
+
+--------------------------------------------------------
+Venue: TD Garden
+Location: Boston
+Date: December 14, 2019
+
+--------------------------------------------------------
+Venue: VyStar Veterans Memorial Arena
+Location: Jacksonville
+Date: January 8, 2020
+
+--------------------------------------------------------
+Venue: State Farm Arena
+Location: Atlanta
+Date: January 11, 2020
+
+--------------------------------------------------------
+Venue: Bridgestone Arena
+Location: Nashville
+Date: January 13, 2020
+
+--------------------------------------------------------
+Venue: Amalie Arena
+Location: Tampa
+Date: January 15, 2020
+
+--------------------------------------------------------
+Venue: AmericanAirlines Arena
+Location: Miami
+Date: January 17, 2020
+
+--------------------------------------------------------
+Venue: AmericanAirlines Arena
+Location: Miami
+Date: January 18, 2020
+
+--------------------------------------------------------
+Venue: Spectrum Center
+Location: Charlotte
+Date: January 21, 2020
+
+--------------------------------------------------------
+Venue: AT&T Center
+Location: San Antonio
+Date: January 30, 2020
+
+--------------------------------------------------------
+Venue: Toyota Center
+Location: Houston
+Date: February 1, 2020
+
+--------------------------------------------------------
+Venue: American Airlines Center
+Location: Dallas
+Date: February 3, 2020
+
+--------------------------------------------------------
+Venue: BOK Center
+Location: Tulsa
+Date: February 5, 2020
+
+--------------------------------------------------------
+Venue: Smoothie King Center
+Location: New Orleans
+Date: February 7, 2020
+
+--------------------------------------------------------
+Venue: FedExForum
+Location: Memphis
+Date: February 9, 2020
+
+--------------------------------------------------------
+Venue: PNC Arena
+Location: Raleigh
+Date: February 11, 2020
+
+--------------------------------------------------------
+Venue: Bell Centre
+Location: Montreal
+Date: February 18, 2020
+
+--------------------------------------------------------
+Venue: Bell Centre
+Location: Montreal
+Date: February 19, 2020
+
+--------------------------------------------------------
+Venue: Boardwalk Hall
+Location: Atlantic City
+Date: February 22, 2020
+
+--------------------------------------------------------
+Venue: Royal Farms Arena (formerly Baltimore Arena)
+Location: Baltimore
+Date: February 24, 2020
+
+--------------------------------------------------------
+Venue: Wells Fargo Center
+Location: Philadelphia
+Date: February 26, 2020
+
+--------------------------------------------------------
+Venue: Barclays Center
+Location: Brooklyn
+Date: February 28, 2020
+
+--------------------------------------------------------
+Venue: Barclays Center
+Location: Brooklyn
+Date: February 29, 2020
+
+--------------------------------------------------------
+Venue: Nassau Veterans Memorial Coliseum
+Location: Uniondale
+Date: March 3, 2020
+
+--------------------------------------------------------
+Venue: Prudential Center
+Location: Newark
+Date: March 7, 2020
+
+--------------------------------------------------------
+Venue: Barclays Center
+Location: Brooklyn
+Date: March 5, 2020
+
+--------------------------------------------------------
+Venue: Prudential Center
+Location: Newark
+Date: March 8, 2020
+
+--------------------------------------------------------
+Venue: Capital One Arena
+Location: Washington
+Date: March 11, 2020
+
+--------------------------------------------------------
+Venue: PPG Paints Arena
+Location: Pittsburgh
+Date: March 13, 2020
+
+--------------------------------------------------------
+Venue: Pepsi Center
+Location: Denver
+Date: March 24, 2020
+
+--------------------------------------------------------
+Venue: Vivint Smart Home Arena
+Location: Salt Lake City
+Date: March 26, 2020
+
+--------------------------------------------------------
+Venue: Gila River Arena
+Location: Glendale
+Date: March 29, 2020
+
+--------------------------------------------------------
+Venue: Pechanga Arena San Diego
+Location: San Diego
+Date: March 31, 2020
+
+--------------------------------------------------------
+Venue: Staples Center
+Location: Los Angeles
+Date: April 2, 2020
+
+--------------------------------------------------------
+Venue: Staples Center
+Location: Los Angeles
+Date: April 3, 2020
+
+--------------------------------------------------------
+Venue: Golden 1 Center
+Location: Sacramento
+Date: April 7, 2020
+
+--------------------------------------------------------
+Venue: Oakland Arena
+Location: Oakland
+Date: April 9, 2020
+
+--------------------------------------------------------
+Venue: Chase Center
+Location: San Francisco
+Date: April 10, 2020
+
+--------------------------------------------------------
+Venue: Chase Center
+Location: San Francisco
+Date: April 11, 2020
+
+--------------------------------------------------------
+Venue: Moda Center
+Location: Portland
+Date: April 13, 2020
+
+--------------------------------------------------------
+Venue: Tacoma Dome
+Location: Tacoma
+Date: April 15, 2020
+
+--------------------------------------------------------
+Venue: Rogers Arena
+Location: Vancouver
+Date: April 17, 2020
+
+--------------------------------------------------------
+Venue: Rogers Arena
+Location: Vancouver
+Date: April 18, 2020
+
+--------------------------------------------------------
+Venue: Rogers Place
+Location: Edmonton
+Date: April 21, 2020
+
+--------------------------------------------------------
+Venue: Rogers Place
+Location: Edmonton
+Date: April 22, 2020
+
+--------------------------------------------------------
+Venue: Bell MTS Place
+Location: Winnipeg
+Date: April 27, 2020
+
+--------------------------------------------------------
+Venue: O2 Arena
+Location: Prague
+Date: May 21, 2020
+
+--------------------------------------------------------
+Venue: Tauron Arena Krakow
+Location: Kraków
+Date: May 25, 2020
+
+--------------------------------------------------------
+Venue: Sportpaleis
+Location: Antwerpen - Merksem
+Date: May 28, 2020
+
+--------------------------------------------------------
+Venue: Atlas Arena
+Location: Łódź
+Date: May 23, 2020
+
+--------------------------------------------------------
+Venue: Sasktel Centre
+Location: Saskatoon
+Date: April 25, 2020
+
+--------------------------------------------------------
+Venue: Sportpaleis
+Location: Antwerpen - Merksem
+Date: May 30, 2020
+
+--------------------------------------------------------
+Venue: Hallenstadion
+Location: Zürich
+Date: June 2, 2020
+
+--------------------------------------------------------
+Venue: Hallenstadion
+Location: Zürich
+Date: June 3, 2020
+
+--------------------------------------------------------
+Venue: ARENA ZAGREB
+Location: Zagreb
+Date: June 5, 2020
+
+--------------------------------------------------------
+Venue: Papp Laszlo Arena
+Location: Budapest
+Date: June 7, 2020
+
+--------------------------------------------------------
+Venue: Ziggo Dome
+Location: Amsterdam
+Date: June 10, 2020
+
+--------------------------------------------------------
+Venue: Ziggo Dome
+Location: Amsterdam
+Date: June 12, 2020
+
+--------------------------------------------------------
+Venue: Ziggo Dome
+Location: Amsterdam
+Date: June 13, 2020
+
+--------------------------------------------------------
+Venue: Wiener Stadthalle - Halle D
+Location: Wien
+Date: June 15, 2020
+
+--------------------------------------------------------
+Venue: Kleine Olympiahalle München
+Location: München
+Date: June 17, 2020
+
+--------------------------------------------------------
+Venue: SAP Arena
+Location: Mannheim
+Date: June 19, 2020
+
+--------------------------------------------------------
+Venue: Lanxess Arena
+Location: Köln
+Date: June 21, 2020
+
+--------------------------------------------------------
+Venue: Barclaycard Arena Hamburg
+Location: Hamburg
+Date: June 22, 2020
+
+--------------------------------------------------------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre
+Date: June 26, 2020
+
+--------------------------------------------------------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre
+Date: June 27, 2020
+
+--------------------------------------------------------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre
+Date: June 30, 2020
+
+--------------------------------------------------------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre
+Date: July 1, 2020
+
+--------------------------------------------------------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre
+Date: July 3, 2020
+
+--------------------------------------------------------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre
+Date: July 4, 2020
+
+--------------------------------------------------------
+Venue: Plaine De L'asse
+Location: Nyon
+Date: July 20, 2020
+
+--------------------------------------------------------
+Venue: Waldbühne Berlin
+Location: Berlin
+Date: July 22, 2020
+
+--------------------------------------------------------
+Venue: Mura di Lucca - Viale Carducci
+Location: Lucca
+Date: July 25, 2020
+
+--------------------------------------------------------
+Venue: National Stadium Bukarest
+Location: Bucharest
+Date: July 29, 2020
+
+--------------------------------------------------------
+Venue: Hartwall Arena
+Location: Helsinki
+Date: August 24, 2020
+
+--------------------------------------------------------
+Venue: Hartwall Arena
+Location: Helsinki
+Date: August 25, 2020
+
+--------------------------------------------------------
+Venue: Telenor Arena
+Location: Fornebu
+Date: August 28, 2020
+
+--------------------------------------------------------
+Venue: Telenor Arena
+Location: Fornebu
+Date: August 29, 2020
+
+--------------------------------------------------------
+Venue: Royal Arena
+Location: København S
+Date: August 31, 2020
+
+--------------------------------------------------------
+Venue: Royal Arena
+Location: København S
+Date: September 1, 2020
+
+--------------------------------------------------------
+Venue: Manchester Arena
+Location: Manchester
+Date: September 4, 2020
+
+--------------------------------------------------------
+Venue: Manchester Arena
+Location: Manchester
+Date: September 5, 2020
+
+--------------------------------------------------------
+Venue: Arena Birmingham
+Location: Birmingham
+Date: September 8, 2020
+
+--------------------------------------------------------
+Venue: Arena Birmingham
+Location: Birmingham
+Date: September 9, 2020
+
+--------------------------------------------------------
+Venue: The SSE Hydro
+Location: Glasgow
+Date: September 11, 2020
+
+--------------------------------------------------------
+Venue: The SSE Hydro
+Location: Glasgow
+Date: September 12, 2020
+
+--------------------------------------------------------
+Venue: 3Arena
+Location: Dublin
+Date: September 14, 2020
+
+--------------------------------------------------------
+Venue: 3Arena
+Location: Dublin
+Date: September 15, 2020
+
+--------------------------------------------------------
+Venue: The O2
+Location: London
+Date: September 17, 2020
+
+--------------------------------------------------------
+Venue: The O2
+Location: London
+Date: September 18, 2020
+
+--------------------------------------------------------
