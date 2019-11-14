@@ -62,6 +62,9 @@ function songQuery(){
 
 function movieQuery() {
   movieName = process.argv[3];
+  if (movieName === undefined) {
+    var movieName = "Mr.Nobody";
+  }
   var OMDBurl =  "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=df704d12";
   // console.log(OMDBurl);
   axios.get(OMDBurl).then(
