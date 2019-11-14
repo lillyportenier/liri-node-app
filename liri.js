@@ -1,4 +1,3 @@
-// OMDB-apiKey = http://www.omdbapi.com/?i=tt3896198&apikey= df704d12
 
 require("dotenv").config();
 var Spotify = require('node-spotify-api');
@@ -11,35 +10,45 @@ moment().format();
 
 var dashes = "\n--------------------------------------------------------"
 var command = process.argv[2];
+// var value = process.argv[3];
+var value = "";
+var track = "";
 
-var movieName = "";
+for (var i = 3; i < process.argv.length; i++) {
 
+  if (i > 3 && i < process.argv.length) {
+    value = value + "+" + process.argv[i];
+  } else {
+    value += process.argv[i];
+  }
+}
+for (var i = 3; i < process.argv.length; i++) {
 
-// for (var i = 3; i < process.argv.length; i++) {
-
-//   if (i > 2 && i < process.argv.length) {
-//     movieName = movieName + "+" + process.argv[i];
-//   } else {
-//     movieName += process.argv[i];
-//   }
-// }
+  if (i > 3 && i < process.argv.length) {
+    track = track + " " + process.argv[i];
+  } else {
+    track += process.argv[i];
+  }
+}
 if (command === "spotify-this-song") {
-  songQuery();
+  songQuery(track);
 } else if (command === "movie-this") {
-  movieQuery();
+  movieQuery(value);
 } else if (command === "concert-this") {
-  concertQuery();
+  concertQuery(value);
+}else if (command === "test") {
+  console.log(value);
 }
 
 
 
-function songQuery() {
+function songQuery(track) {
 
-  var search = process.argv[3];
-  if (search === undefined) {
-    var search = "The Sign Ace of Base";
+  // var search = process.argv[3];
+  if (track === undefined) {
+    var track = "The Sign Ace of Base";
   }
-  spotify.search({ type: 'track', query: search }, function (err, data) {
+  spotify.search({ type: 'track', query: track }, function (err, data) {
     if (err) {
       return console.log('Error occurred: ' + err);
     } else {
@@ -57,12 +66,12 @@ function songQuery() {
 };
 
 
-function movieQuery() {
-  movieName = process.argv[3];
-  if (movieName === undefined) {
-    var movieName = "Mr.Nobody";
+function movieQuery(value) {
+  // movieName = process.argv[3];
+  if (value === undefined) {
+    var value = "Mr.Nobody";
   }
-  var OMDBurl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=df704d12";
+  var OMDBurl = "http://www.omdbapi.com/?t=" + value + "&y=&plot=short&apikey=df704d12";
 
   axios.get(OMDBurl).then(
     function (response) {
@@ -99,11 +108,11 @@ function movieQuery() {
       console.log(error.config);
     })
 };
-function concertQuery() {
-  var artist = "travis+scott"
+function concertQuery(value) {
+  // var artist = "travis+scott"
 
   // var artist = process.argv[3];
-  axios.get("https://rest.bandsintown.com/artists/" + "celine+dion" + "/events?app_id=codingbootcamp").then(
+  axios.get("https://rest.bandsintown.com/artists/" + value + "/events?app_id=codingbootcamp").then(
     function(response){
     for (var i = 0; i < response.data.length; i++) {
       var concertInfo = 
@@ -118,4 +127,7 @@ function concertQuery() {
       })
     }
   })
+  .catch(function (error) {
+    console.log(error);
+  });
 }
