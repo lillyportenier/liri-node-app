@@ -27,7 +27,8 @@
 
 'SPOTIFY_ID=your-spotify-ID-here'
 
-'SPOTIFY_SECRET=your-spotify-secret-here'</li>
+'SPOTIFY_SECRET=your-spotify-secret-here'
+    These keys are created with a spotify developer account.</li>
   </li>
 </ol>
 
