@@ -67,6 +67,13 @@
 <p>This is what the data results should look like, with the terminal and the random.txt files both populating with data.</p>
 <img src = "screenshots /movie-this-post.png">
 
+<h1>Do-what-it-says</h1>
+<p>This is an example of the do-what-it-says command, simply input "node liri.js do-what-it-says". This is what the command line should look like: </p>
+<img src = "screenshots /do-what-pre.png">
+<p>And this is what the data populated should look like: </p>
+<img src = "screenshots /do-what-post.png">
+
+
 
 
 
