@@ -10,6 +10,12 @@
   <li>concert-this</li>
   <li>do-what-it-says</li>
 </ul> 
+
+<h1>To Use</h1>
+<ol>
+  <li>Clone the repository</li>
+</ol>
+
 <h1>APIs Used</h1>
 <ul>
   <li>Spotify Api</li>
