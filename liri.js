@@ -10,7 +10,6 @@ moment().format();
 
 var dashes = "\n--------------------------------------------------------"
 var command = process.argv[2];
-// var value = process.argv[3];
 var value = "";
 var track = "";
 
@@ -36,38 +35,41 @@ if (command === "spotify-this-song") {
   movieQuery(value);
 } else if (command === "concert-this") {
   concertQuery(value);
-}else if (command === "test") {
-  console.log(value);
+} else if (command === "do-what-it-says") {
+  doThis(track);
 }
 
 
 
 function songQuery(track) {
-
-  // var search = process.argv[3];
   if (track === undefined) {
     var track = "The Sign Ace of Base";
   }
-  spotify.search({ type: 'track', query: track }, function (err, data) {
+  spotify.search({ type: 'track', query: track ,limit: 5 }, function (err, data) {
     if (err) {
       return console.log('Error occurred: ' + err);
     } else {
-      console.log("Song:         " + data.tracks.items[0].name);
-      console.log("Listen Here : " + data.tracks.items[0].preview_url);
-      console.log("Album:        " + data.tracks.items[0].album.name);
+      for (var i = 0; i < data.tracks.items.length; i++) {
+        console.log("Song #"+ (i+1)) + 
+        console.log("Song:         " + data.tracks.items[i].name);
+        console.log("Listen Here : " + data.tracks.items[i].preview_url);
+        console.log("Album:        " + data.tracks.items[i].album.name);
+        console.log(dashes);
+        var text = "\nSong: " + data.tracks.items[i].name + "\nListen Here: " + data.tracks.items[i].preview_url + "\nAlbum: " + data.tracks.items[i].album.name + dashes;
+        fs.appendFile("random.txt", text, function (err) {
+          if (err){
+            console.log(err, "append file error");
+            throw err;
+          } 
+          
+        })
+      }
     }
-    var text = "\nSong: " + data.tracks.items[0].name + "\nListen Here: " + data.tracks.items[0].preview_url + "\nAlbum: " + data.tracks.items[0].album.name + dashes;
-
-    fs.appendFile("random.txt", text, function (err) {
-      if (err) throw err;
-      console.log(err);
-    })
   });
 };
 
 
 function movieQuery(value) {
-  // movieName = process.argv[3];
   if (value === undefined) {
     var value = "Mr.Nobody";
   }
@@ -86,8 +88,10 @@ function movieQuery(value) {
 
       var text = "\nTitle: " + response.data.Title + "\nYear: " + response.data.Year + "\nRating: " + response.data.Rated + "\nRotten Tomato: " + response.data.Ratings[1].Value + "\nCountry: " + response.data.Country + "\nLanguage: " + response.data.Language + "\nActors: " + response.data.Actors + "\nPlot: " + response.data.Plot + dashes;
       fs.appendFile("random.txt", text, function (err) {
-        if (err) throw err;
-        console.log(err);
+        if (err) {
+          console.log(err, "appendFile error");
+          throw err
+      }
 
       })
     }
@@ -101,33 +105,46 @@ function movieQuery(value) {
         console.log("---------------Status---------------");
         console.log(error.response.headers);
       } else if (error.request) {
-        console.log(error.request);
+        console.log(error.request, "catch error");
       } else {
         console.log("Error", error.message);
       }
-      console.log(error.config);
+      console.log(error.config, "config error");
     })
 };
 function concertQuery(value) {
-  // var artist = "travis+scott"
-
-  // var artist = process.argv[3];
   axios.get("https://rest.bandsintown.com/artists/" + value + "/events?app_id=codingbootcamp").then(
-    function(response){
-    for (var i = 0; i < response.data.length; i++) {
-      var concertInfo = 
-        "\nVenue: " + response.data[i].venue.name +
-        "\nLocation: " + response.data[i].venue.city +
-        "\nDate: " + moment(response.data[i].datetime).format('LL') +
-        "\n" + dashes;
-      console.log(concertInfo);
-      fs.appendFile("random.txt", concertInfo, function (err) {
-        if (err) throw err;
-        console.log(err);
-      })
-    }
+    function (response) {
+      for (var i = 0; i < response.data.length; i++) {
+        // console.log(value);
+        var concertInfo =
+          "\nVenue #"+ (i+1) +
+          "\nVenue: " + response.data[i].venue.name +
+          "\nLocation: " + response.data[i].venue.city +
+          "\nDate: " + moment(response.data[i].datetime).format('LL') +
+          "\n" + dashes;
+          console.log(concertInfo);
+          
+
+        fs.appendFile("random.txt", concertInfo, function (err) {
+          if (err) {
+            console.log(err);
+            throw err;
+          }
+        })
+      }
+    })
+    .catch(function (error) {
+      console.log(error, "catch error");
+    });
+};
+function doThis(track) {
+
+  fs.readFile("read.txt", "utf8", function(error, data) {
+      if (error) {
+          return console.log(error, "read.txt");
+      }
+      var dataArr = data.split(",");
+      songQuery(dataArr[1])
   })
-  .catch(function (error) {
-    console.log(error);
-  });
 }
