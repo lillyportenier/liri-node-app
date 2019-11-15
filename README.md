@@ -3,15 +3,9 @@
 <p> Created on: 11-14-2019 </p>
 
 <h1>About the App</h1>
-<p> Liri is a command line node app that integrates Spotify, OMBD, and Bandsintown to take in a parameter and give back the requested data. The user inputs one of four commands listed below, as well as the parameter of what is being searched. The commands are: </p>
-<ul>
-  <li>spotify-this-song</li>
-  <li>movie-this</li>
-  <li>concert-this</li>
-  <li>do-what-it-says</li>
-</ul> 
-
-<h1>How to Run</h1>
+<p> LIRI is similar to iPhone's SIRI. However, SIRI is a Speech Interpretation and Recognition Interface, while LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data. </p>
+ 
+<h1>Set Up</h1>
 <ol>
   <li>Clone the repository</li>
   <li>Run npm install, this should install the following: 
@@ -31,6 +25,18 @@
     </li>
   </li>
 </ol>
+
+<h1>Available Commands</h1>
+<ul>
+  <li>spotify-this-song</li>
+  <li>movie-this</li>
+  <li>concert-this</li>
+  <li>do-what-it-says</li>
+</ul>
+<h1>Command Usage</h1>
+<ul>
+  <li>Spotify-this-song:  this searches the Spotify API and returns the five results of the search paramaeter. In each of the five searches the name of the song, a link to preview the song on Spotify, and the name of the album of the song all appear in the command line.</li>
+</ul>
 
 <h1>APIs Used</h1>
 <ul>
