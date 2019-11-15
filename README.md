@@ -11,9 +11,17 @@
   <li>do-what-it-says</li>
 </ul> 
 
-<h1>To Use</h1>
+<h1>How to Run</h1>
 <ol>
   <li>Clone the repository</li>
+  <li>Run npm install, this should install the following: 
+    <ul>
+      <li>axios</li>
+      <li>dotenv</li>
+      <li>moment</li>
+      <li>node-spotify-api</li>
+    </ul>
+  </li>
 </ol>
 
 <h1>APIs Used</h1>
