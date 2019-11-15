@@ -21,14 +21,14 @@
       <li>moment</li>
       <li>node-spotify-api</li>
     </ul>
-  <li>Create a .env file in the same directory as the rest of the files. In the .env file should be:
+  <li>Create a .env file in the same directory as the rest of the files. These keys are created with a spotify developer account. In the .env file should be:
 
 '# Spotify API keys'
 
 'SPOTIFY_ID=your-spotify-ID-here'
 
 'SPOTIFY_SECRET=your-spotify-secret-here'
-    These keys are created with a spotify developer account.</li>
+    </li>
   </li>
 </ol>
 
