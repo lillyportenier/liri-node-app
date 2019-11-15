@@ -39,7 +39,7 @@ if (command === "spotify-this-song") {
 } else if (command === "do-what-it-says") {
   doThis(track);
 } else if (command === undefined){
-  console.log("Welcome to Liri, to use this program ther e")
+  console.log("Welcome to Liri, to use this program simply input 'node liri.js' followed by the input commands such as: \nspotify-this-song \nconcert-this \nmovie-this \nYou will want to follow the commands up with songs, artists, and movies titles to get the full functionality out of the node application" );
 }
 
 
