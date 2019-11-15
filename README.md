@@ -50,15 +50,21 @@
 <p>Each of the commands will also take the data that was searched and save it in a seperate text file, random.txt. This is saved each time the user requests a search so the user has a record of what has been searched, and the data that was provided is in an easy to read and easy to find location. </p>
 
 <h1>Spotify-this-song</h1>
-<img  style= "height: 100px, width: 100px;" src = "screenshots /spotify-this-song-pre-j.jpg">
+<p>Here you can see how the spotify command line works, you simpliy input "node liri.js spotify-this-song" followed by the song you want to search. This is what the command line should look like on the input: </p>
+<img src = "screenshots /spotify-this-song-pre-j.jpg">
+<p>This is what the result should look like as well, as you can see the random.txt file as well as the terminal have been populated with the queried data. </p>
 <img src = "screenshots /spotify-this-song-post.png">
 
 <h1>Concert-this</h1>
+<p>Here you can see the functionality of the concert commant, similar to the spotify command, you input "node liri.js concert-this" followed up with the artist you are looking to find. This is what the command line should look like: </p>
 <img src = "screenshots /concert-this-pre.png">
+<p>This is what the result should look like, with the terminal and the random.txt file both populating with the searched data.</p>
 <img src = "screenshots /concert-this-post.png">
 
 <h1>Movie-this</h1>
+<p>This is an example of the movie command, you simpliy input "node liri.js movie-this" and then the movie you are searching for. This is an example of what it should look like: </p>
 <img src = "screenshots /movie-this-pre.png">
+<p>This is what the data results should look like, with the terminal and the random.txt files both populating with data.</p>
 <img src = "screenshots /movie-this-post.png">
 
 
