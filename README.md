@@ -35,8 +35,12 @@
 </ul>
 <h1>Command Usage</h1>
 <ul>
-  <li>Spotify-this-song:  this searches the Spotify API and returns the five results of the search paramaeter. In each of the five searches the name of the song, a link to preview the song on Spotify, and the name of the album of the song all appear in the command line.</li>
+  <li>Spotify-this-song:  This searches the Spotify API and returns the top five results of the song searched. In each response the name of the song, a link to the preview on Spotify, and the name of the album all appear in the command line.</li>
+ <li>Movie-this:  This searches the OMBD API for the requested movie and displays information for the the movie result. This response shows the data in the command line such as moive title, release, year, rating, rotten tomato score, acotrs, plot and more.</li>
+ <li>Concert-this:  This command searches the BandsInTown API for the artist that is requested. All the listing of the artists upcomming events are shown in the command line, with information such as the venue name, location, and time of the event. </li>
+ <li>Do-what-it-says: This function takes in the information from the read.txt file and queries a result based on the text that is on the file. It will then populate the command line with the appropriate results based on what is in the read.txt file.</li>
 </ul>
+<p>Each of the commands will also take the data that was searched and save it in a seperate text file, random.txt. This is saved each time the user requests a search so the user has a record of what has been searched, and the data that was provided is in an easy to read and easy to find location. </p>
 
 <h1>APIs Used</h1>
 <ul>
