@@ -1,8 +1,8 @@
-<h1> liri-node-app </h1>
+<h1> Liri-node-app </h1>
 <p> Contributor: Lillian Portenier </p>
 <p> Created on: 11-14-2019 </p>
 <br>
-<h2>About the app</h2>
+<h1>About the app</h1>
 <p> Liri is a command line node app that takes in parameters and gives back data. The user inputs one of four commands listed below, as well as the parameter of what is being searched. The commands are: </p>
 <ul>
   <li>spotify-this-song</li>
