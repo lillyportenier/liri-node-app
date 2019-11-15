@@ -26,6 +26,13 @@
   </li>
 </ol>
 
+<h1>APIs Used</h1>
+<ul>
+  <li>Spotify Api</li>
+  <li>OMDB Api</li>
+  <li>Bandsintown Api</li>
+</ul>
+
 <h1>Available Commands</h1>
 <ul>
   <li>spotify-this-song</li>
@@ -42,10 +49,7 @@
 </ul>
 <p>Each of the commands will also take the data that was searched and save it in a seperate text file, random.txt. This is saved each time the user requests a search so the user has a record of what has been searched, and the data that was provided is in an easy to read and easy to find location. </p>
 
-<h1>APIs Used</h1>
-<ul>
-  <li>Spotify Api</li>
-  <li>OMDB Api</li>
-  <li>Bandsintown Api</li>
-</ul>
+<h1>Spotify-this-song</h1>
+![Alt text](https://github.com/lillyportenier/liri-node-app/blob/master/screenshots%20/concert-this-post.png?raw=true)
+
 
