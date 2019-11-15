@@ -29,6 +29,7 @@ for (var i = 3; i < process.argv.length; i++) {
     track += process.argv[i];
   }
 }
+
 if (command === "spotify-this-song") {
   songQuery(track);
 } else if (command === "movie-this") {
@@ -37,6 +38,8 @@ if (command === "spotify-this-song") {
   concertQuery(value);
 } else if (command === "do-what-it-says") {
   doThis(track);
+} else if (command === undefined){
+  console.log("Welcome to Liri, to use this program ther e")
 }
 
 
@@ -52,10 +55,12 @@ function songQuery(track) {
       for (var i = 0; i < data.tracks.items.length; i++) {
         console.log("Song #"+ (i+1)) + 
         console.log("Song:         " + data.tracks.items[i].name);
-        console.log("Listen Here : " + data.tracks.items[i].preview_url);
+        console.log("Artist:       " + data.tracks.items[i].artists[0].name);
         console.log("Album:        " + data.tracks.items[i].album.name);
+        console.log("Listen Here : " + data.tracks.items[i].preview_url);
         console.log(dashes);
-        var text = "\nSong: " + data.tracks.items[i].name + "\nListen Here: " + data.tracks.items[i].preview_url + "\nAlbum: " + data.tracks.items[i].album.name + dashes;
+        var text = "\nSong: " + data.tracks.items[i].name + "\nArtist: " + data.tracks.items[i].artists[0].name + "\nAlbum: " + data.tracks.items[i].album.name + "\nListen Here: " + data.tracks.items[i].preview_url + dashes;
+        
         fs.appendFile("random.txt", text, function (err) {
           if (err){
             console.log(err, "append file error");

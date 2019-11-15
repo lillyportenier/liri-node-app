@@ -1,556 +1,199 @@
 
-Song: My Humps
-Listen Here: null
-Album: Frat Party
---------------------------------------------------------
-Song: My Humps
-Listen Here: null
-Album: Monkey Business
---------------------------------------------------------
-Song: My Humps - Single Version
-Listen Here: null
-Album: My Humps
---------------------------------------------------------
-Song: My Humps
-Listen Here: null
-Album: Twerking
---------------------------------------------------------
-Song: My Humps - Lil Jon Remix
-Listen Here: null
-Album: My Humps (Remix Produced by Lil Jon)
---------------------------------------------------------
-Song: My Humps
-Listen Here: null
-Album: Frat Party
---------------------------------------------------------
-Song: My Humps
-Listen Here: null
-Album: Monkey Business
---------------------------------------------------------
-Song: My Humps - Single Version
-Listen Here: null
-Album: My Humps
---------------------------------------------------------
-Song: My Humps - Lil Jon Remix
-Listen Here: null
-Album: My Humps (Remix Produced by Lil Jon)
---------------------------------------------------------
-Song: My Humps
-Listen Here: null
-Album: Twerking
---------------------------------------------------------
-Song: My Humps
-Listen Here: null
-Album: Frat Party
---------------------------------------------------------
-Song: Hello
-Listen Here: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: 25
---------------------------------------------------------
-Song: Hello?
-Listen Here: null
-Album: diary 001
---------------------------------------------------------
-Song: Hello My Old Heart
-Listen Here: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: The Oh Hellos EP
---------------------------------------------------------
-Song: Hello
-Listen Here: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: Hello
---------------------------------------------------------
-Song: hello!
-Listen Here: null
-Album: hello!
---------------------------------------------------------
-Song: Hello
-Listen Here: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: 25
---------------------------------------------------------
-Song: hello!
-Listen Here: null
-Album: hello!
---------------------------------------------------------
-Song: Hello?
-Listen Here: null
-Album: diary 001
---------------------------------------------------------
-Song: Hello
-Listen Here: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: Hello
---------------------------------------------------------
-Song: Hello My Old Heart
-Listen Here: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: The Oh Hellos EP
---------------------------------------------------------
-Song: Hello
-Listen Here: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: 25
---------------------------------------------------------
-Song: Hello?
-Listen Here: null
-Album: diary 001
---------------------------------------------------------
-Song: Hello My Old Heart
-Listen Here: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: The Oh Hellos EP
---------------------------------------------------------
-Song: Hello
-Listen Here: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: Hello
---------------------------------------------------------
-Song: hello!
-Listen Here: null
-Album: hello!
---------------------------------------------------------
-Title: The Help
-Year: 2011
-Rating: PG-13
-Rotten Tomato: 76%
-Country: USA, India, United Arab Emirates, UK, France, Canada, Germany
-Language: English
-Actors: Emma Stone, Viola Davis, Bryce Dallas Howard, Octavia Spencer
-Plot: An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.
---------------------------------------------------------
-Title: The Help
-Year: 2011
-Rating: PG-13
-Rotten Tomato: 76%
-Country: USA, India, United Arab Emirates, UK, France, Canada, Germany
-Language: English
-Actors: Emma Stone, Viola Davis, Bryce Dallas Howard, Octavia Spencer
-Plot: An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.
---------------------------------------------------------
-Title: The Help
-Year: 2011
-Rating: PG-13
-Rotten Tomato: 76%
-Country: USA, India, United Arab Emirates, UK, France, Canada, Germany
-Language: English
-Actors: Emma Stone, Viola Davis, Bryce Dallas Howard, Octavia Spencer
-Plot: An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.
---------------------------------------------------------
-Venue: TD Garden
-Location: Boston
-Date: November 14, 2019
-
---------------------------------------------------------
-Venue: Prudential Center
-Location: Newark
-Date: November 16, 2019
-
---------------------------------------------------------
-Venue: Boardwalk Hall
-Location: Atlantic City
-Date: November 22, 2019
-
---------------------------------------------------------
-Venue: PNC Arena
-Location: Raleigh
-Date: November 24, 2019
-
---------------------------------------------------------
-Venue: Capital One Arena
-Location: Washington
-Date: November 25, 2019
-
---------------------------------------------------------
-Venue: Viejas Arena
-Location: San Diego
-Date: January 10, 2020
-
---------------------------------------------------------
-Venue: Viejas Arena
-Location: San Diego
-Date: January 12, 2020
-
---------------------------------------------------------
-Venue: Save Mart Center
-Location: Fresno
-Date: January 15, 2020
-
---------------------------------------------------------
-Venue: T-Mobile Arena
-Location: Las Vegas
-Date: January 17, 2020
-
---------------------------------------------------------
-Venue: Gila River Arena
-Location: Glendale
-Date: January 18, 2020
-
---------------------------------------------------------
-Venue: Frank C. Erwin, Jr., Special Events Center
-Location: Austin
-Date: January 21, 2020
-
---------------------------------------------------------
-Venue: American Airlines Center
-Location: Dallas
-Date: January 22, 2020
-
---------------------------------------------------------
-Venue: State Farm Arena
-Location: Atlanta
-Date: January 28, 2020
-
---------------------------------------------------------
-Venue: Bridgestone Arena
-Location: Nashville
-Date: January 29, 2020
-
---------------------------------------------------------
-Venue: FedEx Forum
-Location: Memphis
-Date: January 31, 2020
-
---------------------------------------------------------
-Venue: Smoothie King Center
-Location: New Orleans
-Date: February 1, 2020
-
---------------------------------------------------------
-Venue: RAC Arena
-Location: Perth
-Date: February 14, 2020
-
---------------------------------------------------------
-Venue: Qudos Bank Arena
-Location: Sydney
-Date: February 17, 2020
-
---------------------------------------------------------
-Venue: Brisbane Entertainment Centre
-Location: Boondall
-Date: February 20, 2020
-
---------------------------------------------------------
-Venue: Rod Laver Arena
-Location: Melbourne
-Date: February 22, 2020
-
---------------------------------------------------------
-Venue: Spark Arena
-Location: Auckland
-Date: February 28, 2020
-
---------------------------------------------------------
-Venue: Barclays Center
-Location: Brooklyn
-Date: November 19, 2019
-
---------------------------------------------------------
-Venue: Mohegan Sun Arena
-Location: Uncasville
-Date: November 21, 2019
-
---------------------------------------------------------
-Venue: Wells Fargo Center
-Location: Philadelphia
-Date: November 18, 2019
-
---------------------------------------------------------
-Venue: TD Garden
-Location: Boston
-Date: November 14, 2019
-
---------------------------------------------------------
-Venue: Prudential Center
-Location: Newark
-Date: November 16, 2019
-
---------------------------------------------------------
-Venue: Wells Fargo Center
-Location: Philadelphia
-Date: November 18, 2019
-
---------------------------------------------------------
-Venue: Barclays Center
-Location: Brooklyn
-Date: November 19, 2019
-
---------------------------------------------------------
-Venue: Mohegan Sun Arena
-Location: Uncasville
-Date: November 21, 2019
-
---------------------------------------------------------
-Venue: Boardwalk Hall
-Location: Atlantic City
-Date: November 22, 2019
-
---------------------------------------------------------
-Venue: PNC Arena
-Location: Raleigh
-Date: November 24, 2019
-
---------------------------------------------------------
-Venue: Capital One Arena
-Location: Washington
-Date: November 25, 2019
-
---------------------------------------------------------
-Venue: Viejas Arena
-Location: San Diego
-Date: January 10, 2020
-
---------------------------------------------------------
-Venue: Viejas Arena
-Location: San Diego
-Date: January 12, 2020
-
---------------------------------------------------------
-Venue: Save Mart Center
-Location: Fresno
-Date: January 15, 2020
-
---------------------------------------------------------
-Venue: T-Mobile Arena
-Location: Las Vegas
-Date: January 17, 2020
-
---------------------------------------------------------
-Venue: Gila River Arena
-Location: Glendale
-Date: January 18, 2020
-
---------------------------------------------------------
-Venue: Frank C. Erwin, Jr., Special Events Center
-Location: Austin
-Date: January 21, 2020
-
---------------------------------------------------------
-Venue: State Farm Arena
-Location: Atlanta
-Date: January 28, 2020
-
---------------------------------------------------------
-Venue: Bridgestone Arena
-Location: Nashville
-Date: January 29, 2020
-
---------------------------------------------------------
-Venue: Smoothie King Center
-Location: New Orleans
-Date: February 1, 2020
-
---------------------------------------------------------
-Venue: Qudos Bank Arena
-Location: Sydney
-Date: February 17, 2020
-
---------------------------------------------------------
-Venue: Brisbane Entertainment Centre
-Location: Boondall
-Date: February 20, 2020
-
---------------------------------------------------------
-Venue: Rod Laver Arena
-Location: Melbourne
-Date: February 22, 2020
-
---------------------------------------------------------
-Venue: Spark Arena
-Location: Auckland
-Date: February 28, 2020
-
---------------------------------------------------------
-Venue: American Airlines Center
-Location: Dallas
-Date: January 22, 2020
-
---------------------------------------------------------
-Venue: RAC Arena
-Location: Perth
-Date: February 14, 2020
-
---------------------------------------------------------
-Venue: FedEx Forum
-Location: Memphis
-Date: January 31, 2020
-
---------------------------------------------------------
 Venue #1
-Venue: TD Garden
-Location: Boston
-Date: November 14, 2019
+Venue: Prudential Center
+Location: Newark
+Date: November 16, 2019
 
 --------------------------------------------------------
 Venue #2
-Venue: Prudential Center
-Location: Newark
-Date: November 16, 2019
-
---------------------------------------------------------
-Venue #3
 Venue: Wells Fargo Center
 Location: Philadelphia
 Date: November 18, 2019
 
 --------------------------------------------------------
-Venue #4
+Venue #3
 Venue: Barclays Center
 Location: Brooklyn
 Date: November 19, 2019
 
 --------------------------------------------------------
-Venue #5
+Venue #4
 Venue: Mohegan Sun Arena
 Location: Uncasville
 Date: November 21, 2019
 
 --------------------------------------------------------
-Venue #8
-Venue: Capital One Arena
-Location: Washington
-Date: November 25, 2019
+Venue #5
+Venue: Boardwalk Hall
+Location: Atlantic City
+Date: November 22, 2019
 
 --------------------------------------------------------
-Venue #7
+Venue #6
 Venue: PNC Arena
 Location: Raleigh
 Date: November 24, 2019
 
 --------------------------------------------------------
-Venue #11
-Venue: Save Mart Center
-Location: Fresno
-Date: January 15, 2020
+Venue #7
+Venue: Capital One Arena
+Location: Washington
+Date: November 25, 2019
 
 --------------------------------------------------------
-Venue #12
-Venue: T-Mobile Arena
-Location: Las Vegas
-Date: January 17, 2020
-
---------------------------------------------------------
-Venue #13
-Venue: Gila River Arena
-Location: Glendale
-Date: January 18, 2020
-
---------------------------------------------------------
-Venue #14
-Venue: Frank C. Erwin, Jr., Special Events Center
-Location: Austin
-Date: January 21, 2020
-
---------------------------------------------------------
-Venue #15
-Venue: American Airlines Center
-Location: Dallas
-Date: January 22, 2020
-
---------------------------------------------------------
-Venue #16
-Venue: State Farm Arena
-Location: Atlanta
-Date: January 28, 2020
-
---------------------------------------------------------
-Venue #17
-Venue: Bridgestone Arena
-Location: Nashville
-Date: January 29, 2020
-
---------------------------------------------------------
-Venue #18
-Venue: FedEx Forum
-Location: Memphis
-Date: January 31, 2020
-
---------------------------------------------------------
-Venue #19
-Venue: Smoothie King Center
-Location: New Orleans
-Date: February 1, 2020
-
---------------------------------------------------------
-Venue #20
-Venue: RAC Arena
-Location: Perth
-Date: February 14, 2020
-
---------------------------------------------------------
-Venue #21
-Venue: Qudos Bank Arena
-Location: Sydney
-Date: February 17, 2020
-
---------------------------------------------------------
-Venue #22
-Venue: Brisbane Entertainment Centre
-Location: Boondall
-Date: February 20, 2020
-
---------------------------------------------------------
-Venue #23
-Venue: Rod Laver Arena
-Location: Melbourne
-Date: February 22, 2020
-
---------------------------------------------------------
-Venue #24
-Venue: Spark Arena
-Location: Auckland
-Date: February 28, 2020
-
---------------------------------------------------------
-Venue #10
+Venue #8
 Venue: Viejas Arena
 Location: San Diego
-Date: January 12, 2020
-
---------------------------------------------------------
-Venue #6
-Venue: Boardwalk Hall
-Location: Atlantic City
-Date: November 22, 2019
+Date: January 10, 2020
 
 --------------------------------------------------------
 Venue #9
 Venue: Viejas Arena
 Location: San Diego
-Date: January 10, 2020
+Date: January 12, 2020
 
 --------------------------------------------------------
-Song: I Want It That Way
-Listen Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: The Hits--Chapter One
+Venue #10
+Venue: Save Mart Center
+Location: Fresno
+Date: January 15, 2020
+
 --------------------------------------------------------
-Song: I Want It That Way
-Listen Here: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: Millennium
+Venue #11
+Venue: T-Mobile Arena
+Location: Las Vegas
+Date: January 17, 2020
+
 --------------------------------------------------------
-Song: I Want It That Way
-Listen Here: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: I Want It That Way
+Venue #12
+Venue: Gila River Arena
+Location: Glendale
+Date: January 18, 2020
+
 --------------------------------------------------------
-Song: I Want It That Way
-Listen Here: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: Beautiful Dreams
+Venue #13
+Venue: Frank C. Erwin, Jr., Special Events Center
+Location: Austin
+Date: January 21, 2020
+
 --------------------------------------------------------
-Song: I Want It That Way
-Listen Here: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: Covers Part IV
+Venue #14
+Venue: American Airlines Center
+Location: Dallas
+Date: January 22, 2020
+
 --------------------------------------------------------
-Song: I Want It That Way
-Listen Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: The Hits--Chapter One
+Venue #15
+Venue: State Farm Arena
+Location: Atlanta
+Date: January 28, 2020
+
 --------------------------------------------------------
-Song: I Want It That Way
-Listen Here: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: Millennium
+Venue #16
+Venue: Bridgestone Arena
+Location: Nashville
+Date: January 29, 2020
+
 --------------------------------------------------------
-Song: I Want It That Way
-Listen Here: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: I Want It That Way
+Venue #17
+Venue: FedEx Forum
+Location: Memphis
+Date: January 31, 2020
+
 --------------------------------------------------------
-Song: I Want It That Way
-Listen Here: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: Beautiful Dreams
+Venue #18
+Venue: Smoothie King Center
+Location: New Orleans
+Date: February 1, 2020
+
 --------------------------------------------------------
-Song: I Want It That Way
-Listen Here: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
-Album: Covers Part IV
+Venue #19
+Venue: RAC Arena
+Location: Perth
+Date: February 14, 2020
+
+--------------------------------------------------------
+Venue #20
+Venue: Qudos Bank Arena
+Location: Sydney
+Date: February 17, 2020
+
+--------------------------------------------------------
+Venue #21
+Venue: Brisbane Entertainment Centre
+Location: Boondall
+Date: February 20, 2020
+
+--------------------------------------------------------
+Venue #22
+Venue: Rod Laver Arena
+Location: Melbourne
+Date: February 22, 2020
+
+--------------------------------------------------------
+Venue #23
+Venue: Spark Arena
+Location: Auckland
+Date: February 28, 2020
+
+--------------------------------------------------------
+
+Song: Best Friend
+Artist: Rex Orange County
+Album: Best Friend
+Listen Here: https://p.scdn.co/mp3-preview/c3d4d60709c7441f949a1ff538d1cbbca90934ae?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
+--------------------------------------------------------
+Song: Best Friend
+Artist: Young Thug
+Album: Best Friend
+Listen Here: https://p.scdn.co/mp3-preview/f7c7a0b5c7c832387e336f61993f8b4a8c88c29a?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
+--------------------------------------------------------
+Song: Best Friend
+Artist: Yelawolf
+Album: Love Story
+Listen Here: null
+--------------------------------------------------------
+Song: Best Friend
+Artist: Jason Derulo
+Album: 2Sides (Side 1)
+Listen Here: https://p.scdn.co/mp3-preview/c70c5b101ae831bd3f0e5b3371105b8b64b5164e?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
+--------------------------------------------------------
+Song: My Best Friend's Girl
+Artist: The Cars
+Album: The Cars
+Listen Here: https://p.scdn.co/mp3-preview/76ed92c98e2c31d48c4475c11b13a97068389db7?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
+--------------------------------------------------------
+Song: Best Friend
+Artist: Rex Orange County
+Album: Best Friend
+Listen Here: https://p.scdn.co/mp3-preview/c3d4d60709c7441f949a1ff538d1cbbca90934ae?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
+--------------------------------------------------------
+Song: Best Friend
+Artist: Young Thug
+Album: Best Friend
+Listen Here: https://p.scdn.co/mp3-preview/f7c7a0b5c7c832387e336f61993f8b4a8c88c29a?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
+--------------------------------------------------------
+Song: Best Friend
+Artist: Yelawolf
+Album: Love Story
+Listen Here: null
+--------------------------------------------------------
+Song: Best Friend
+Artist: Jason Derulo
+Album: 2Sides (Side 1)
+Listen Here: https://p.scdn.co/mp3-preview/c70c5b101ae831bd3f0e5b3371105b8b64b5164e?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
+--------------------------------------------------------
+Song: My Best Friend's Girl
+Artist: The Cars
+Album: The Cars
+Listen Here: https://p.scdn.co/mp3-preview/76ed92c98e2c31d48c4475c11b13a97068389db7?cid=dfd9d8aa2aa6460f947f3357e98ae4dd
+--------------------------------------------------------
+Title: The Help
+Year: 2011
+Rating: PG-13
+Rotten Tomato: 76%
+Country: USA, India, United Arab Emirates, UK, France, Canada, Germany
+Language: English
+Actors: Emma Stone, Viola Davis, Bryce Dallas Howard, Octavia Spencer
+Plot: An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.
 --------------------------------------------------------
