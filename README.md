@@ -50,6 +50,18 @@
 <p>Each of the commands will also take the data that was searched and save it in a seperate text file, random.txt. This is saved each time the user requests a search so the user has a record of what has been searched, and the data that was provided is in an easy to read and easy to find location. </p>
 
 <h1>Spotify-this-song</h1>
-<img src = "screenshots /spotify-this-song-pre-j.jpg">
+<img  style= "height: 300px, width: 300px;" src = "screenshots /spotify-this-song-pre-j.jpg">
 <img src = "screenshots /spotify-this-song-post.png">
+
+<h1>Concert-this</h1>
+<img src = "screenshots /concert-this-pre.png">
+<img src = "screenshots /concert-this-post.png">
+
+<h1>Movie-this</h1>
+<img src = "screenshots /movie-this-pre.png">
+<img src = "screenshots /movie-this-post.png">
+
+
+
+
 
